@@ -6,9 +6,9 @@ This repository contains the implementation for Assignment 5: Optimization Human
 
 ## 👨‍🎓 Author Information
 
--   **Name:** Alston Alvares\
--   **Student ID:** st126488\
--   **Hardware:** NVIDIA RTX 3050 (4GB VRAM)\
+-   **Name:** Alston Alvares
+-   **Student ID:** st126488
+-   **Hardware:** NVIDIA RTX 3050 (4GB VRAM)
 -   **Model:** Qwen2.5-1.5B
 
 ------------------------------------------------------------------------
