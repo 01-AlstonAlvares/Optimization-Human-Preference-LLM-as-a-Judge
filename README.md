@@ -80,16 +80,17 @@ The base model was:
 
 ## 🔁 Training Configuration
 
--   **Epochs:** 1\
--   **Evaluation Samples:** 15\
--   **Dataset:** AlpacaEval (`helpful_base`)\
+-   **Epochs:** 1
+-   **Evaluation Samples:** 15
+-   **Dataset:** AlpacaEval (`helpful_base`)
 -   **Judge Model:** Gemini-1.5-Flash
 
 ------------------------------------------------------------------------
 
 ## 📋 Evaluation Methodology and Summary
 
-![alt text](image-1.png)
+<img width="290" height="431" alt="image" src="https://github.com/user-attachments/assets/6d95d6a0-14e2-4873-9cca-191ff26499aa" />
+
 
   Metric           Value
   ---------------- ------------
@@ -104,7 +105,7 @@ The base model was:
 
 Win Rate = (Model B Wins + (0.5 × Ties)) / Total Samples × 100
 
-Win Rate = (0 + (0.5 × 15)) / 15 × 100\
+Win Rate = (0 + (0.5 × 15)) / 15 × 100
 Win Rate = 50.00%
 
 ------------------------------------------------------------------------
